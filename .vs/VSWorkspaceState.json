@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ManageInformation",
+    "\\ManageInformation\\ManageInformation.API",
+    "\\ManageInformation\\ManageInformation.API\\Controllers",
+    "\\ManageInformation\\ManageInformation.Domain",
+    "\\ManageInformation\\ManageInformation.Domain\\Model"
+  ],
+  "SelectedNode": "\\ManageInformation\\ManageInformation.API\\Controllers\\MvdController.cs",
+  "PreviewInSolutionExplorer": false
+}

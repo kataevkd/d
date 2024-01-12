@@ -1,0 +1,11 @@
+C:\Users\Полина\Source\Repos\darchapur\PhysicalPerson\ManageInformation\ManageInformation.Domain\bin\Debug\net6.0\ManageInformation.Domain.deps.json
+C:\Users\Полина\Source\Repos\darchapur\PhysicalPerson\ManageInformation\ManageInformation.Domain\bin\Debug\net6.0\ManageInformation.Domain.dll
+C:\Users\Полина\Source\Repos\darchapur\PhysicalPerson\ManageInformation\ManageInformation.Domain\bin\Debug\net6.0\ManageInformation.Domain.pdb
+C:\Users\Полина\Source\Repos\darchapur\PhysicalPerson\ManageInformation\ManageInformation.Domain\obj\Debug\net6.0\ManageInformation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Полина\Source\Repos\darchapur\PhysicalPerson\ManageInformation\ManageInformation.Domain\obj\Debug\net6.0\ManageInformation.Domain.AssemblyInfoInputs.cache
+C:\Users\Полина\Source\Repos\darchapur\PhysicalPerson\ManageInformation\ManageInformation.Domain\obj\Debug\net6.0\ManageInformation.Domain.AssemblyInfo.cs
+C:\Users\Полина\Source\Repos\darchapur\PhysicalPerson\ManageInformation\ManageInformation.Domain\obj\Debug\net6.0\ManageInformation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Полина\Source\Repos\darchapur\PhysicalPerson\ManageInformation\ManageInformation.Domain\obj\Debug\net6.0\ManageInformation.Domain.dll
+C:\Users\Полина\Source\Repos\darchapur\PhysicalPerson\ManageInformation\ManageInformation.Domain\obj\Debug\net6.0\refint\ManageInformation.Domain.dll
+C:\Users\Полина\Source\Repos\darchapur\PhysicalPerson\ManageInformation\ManageInformation.Domain\obj\Debug\net6.0\ManageInformation.Domain.pdb
+C:\Users\Полина\Source\Repos\darchapur\PhysicalPerson\ManageInformation\ManageInformation.Domain\obj\Debug\net6.0\ref\ManageInformation.Domain.dll

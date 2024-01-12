@@ -1,0 +1,17 @@
+C:\Users\Полина\Source\Repos\darchapur\PhysicalPerson\ManageInformation\ManageInformation.Infrastructure\bin\Debug\net6.0\ManageInformation.Infrastructure.deps.json
+C:\Users\Полина\Source\Repos\darchapur\PhysicalPerson\ManageInformation\ManageInformation.Infrastructure\bin\Debug\net6.0\ManageInformation.Infrastructure.runtimeconfig.json
+C:\Users\Полина\Source\Repos\darchapur\PhysicalPerson\ManageInformation\ManageInformation.Infrastructure\bin\Debug\net6.0\ManageInformation.Infrastructure.dll
+C:\Users\Полина\Source\Repos\darchapur\PhysicalPerson\ManageInformation\ManageInformation.Infrastructure\bin\Debug\net6.0\ManageInformation.Infrastructure.pdb
+C:\Users\Полина\Source\Repos\darchapur\PhysicalPerson\ManageInformation\ManageInformation.Infrastructure\bin\Debug\net6.0\ManageInformation.Domain.dll
+C:\Users\Полина\Source\Repos\darchapur\PhysicalPerson\ManageInformation\ManageInformation.Infrastructure\bin\Debug\net6.0\ManageInformation.Domain.pdb
+C:\Users\Полина\Source\Repos\darchapur\PhysicalPerson\ManageInformation\ManageInformation.Infrastructure\obj\Debug\net6.0\ManageInformation.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Полина\Source\Repos\darchapur\PhysicalPerson\ManageInformation\ManageInformation.Infrastructure\obj\Debug\net6.0\ManageInformation.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Полина\Source\Repos\darchapur\PhysicalPerson\ManageInformation\ManageInformation.Infrastructure\obj\Debug\net6.0\ManageInformation.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Полина\Source\Repos\darchapur\PhysicalPerson\ManageInformation\ManageInformation.Infrastructure\obj\Debug\net6.0\ManageInformation.Infrastructure.AssemblyInfo.cs
+C:\Users\Полина\Source\Repos\darchapur\PhysicalPerson\ManageInformation\ManageInformation.Infrastructure\obj\Debug\net6.0\ManageInformation.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Полина\Source\Repos\darchapur\PhysicalPerson\ManageInformation\ManageInformation.Infrastructure\obj\Debug\net6.0\ManageInformation.Infrastructure.csproj.CopyComplete
+C:\Users\Полина\Source\Repos\darchapur\PhysicalPerson\ManageInformation\ManageInformation.Infrastructure\obj\Debug\net6.0\ManageInformation.Infrastructure.dll
+C:\Users\Полина\Source\Repos\darchapur\PhysicalPerson\ManageInformation\ManageInformation.Infrastructure\obj\Debug\net6.0\refint\ManageInformation.Infrastructure.dll
+C:\Users\Полина\Source\Repos\darchapur\PhysicalPerson\ManageInformation\ManageInformation.Infrastructure\obj\Debug\net6.0\ManageInformation.Infrastructure.pdb
+C:\Users\Полина\Source\Repos\darchapur\PhysicalPerson\ManageInformation\ManageInformation.Infrastructure\obj\Debug\net6.0\ManageInformation.Infrastructure.genruntimeconfig.cache
+C:\Users\Полина\Source\Repos\darchapur\PhysicalPerson\ManageInformation\ManageInformation.Infrastructure\obj\Debug\net6.0\ref\ManageInformation.Infrastructure.dll
